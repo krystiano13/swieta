@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/swieta/static/css/main.ad830430.chunk.css",
+    "main.js": "/swieta/static/js/main.c83e45d0.chunk.js",
+    "main.js.map": "/swieta/static/js/main.c83e45d0.chunk.js.map",
+    "runtime-main.js": "/swieta/static/js/runtime-main.724f36aa.js",
+    "runtime-main.js.map": "/swieta/static/js/runtime-main.724f36aa.js.map",
+    "static/js/2.6b54f1b3.chunk.js": "/swieta/static/js/2.6b54f1b3.chunk.js",
+    "static/js/2.6b54f1b3.chunk.js.map": "/swieta/static/js/2.6b54f1b3.chunk.js.map",
+    "static/js/3.296abd51.chunk.js": "/swieta/static/js/3.296abd51.chunk.js",
+    "static/js/3.296abd51.chunk.js.map": "/swieta/static/js/3.296abd51.chunk.js.map",
+    "index.html": "/swieta/index.html",
+    "static/css/main.ad830430.chunk.css.map": "/swieta/static/css/main.ad830430.chunk.css.map",
+    "static/js/2.6b54f1b3.chunk.js.LICENSE.txt": "/swieta/static/js/2.6b54f1b3.chunk.js.LICENSE.txt",
+    "static/media/cb1.1959c780.jpg": "/swieta/static/media/cb1.1959c780.jpg",
+    "static/media/logo.6ce24c58.svg": "/swieta/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724f36aa.js",
+    "static/js/2.6b54f1b3.chunk.js",
+    "static/css/main.ad830430.chunk.css",
+    "static/js/main.c83e45d0.chunk.js"
+  ]
+}
